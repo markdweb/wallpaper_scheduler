@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cream_background">#FBF6EC</color>
+    <color name="gold_accent">#C9A227</color>
+    <color name="launcher_background">#141311</color>
+    <string name="app_name">Wallpaper Scheduler</string>
+    <style name="Theme.WallpaperScheduler" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/cream_background</item>
+        <item name="android:windowBackground">@color/cream_background</item>
+    </style>
+</resources>

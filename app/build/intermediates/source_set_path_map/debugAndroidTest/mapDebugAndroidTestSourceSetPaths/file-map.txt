@@ -1,0 +1,4 @@
+com.cheese.wallpaperscheduler.test.app-androidTest-0 C:\Users\Mark\Downloads\WallpaperScheduler\app\build\generated\res\resValues\androidTest\debug
+com.cheese.wallpaperscheduler.test.app-mergeDebugAndroidTestResources-1 C:\Users\Mark\Downloads\WallpaperScheduler\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.cheese.wallpaperscheduler.test.app-mergeDebugAndroidTestResources-2 C:\Users\Mark\Downloads\WallpaperScheduler\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.cheese.wallpaperscheduler.test.app-debugAndroidTest-3 C:\Users\Mark\Downloads\WallpaperScheduler\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.cheese.wallpaperscheduler.app-debug-57:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.cheese.wallpaperscheduler.app-main-59:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.cheese.wallpaperscheduler.app-debug-57:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.cheese.wallpaperscheduler.app-main-59:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mark\\.gradle\\daemon\\8.9\\com.cheese.wallpaperscheduler.app-debug-57:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\daemon\\8.9\\com.cheese.wallpaperscheduler.app-main-59:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mark\\.gradle\\daemon\\8.9\\com.cheese.wallpaperscheduler.app-debug-57:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\daemon\\8.9\\com.cheese.wallpaperscheduler.app-main-59:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mark\\.gradle\\daemon\\8.9\\com.cheese.wallpaperscheduler.app-debug-57:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\daemon\\8.9\\com.cheese.wallpaperscheduler.app-main-59:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mark\\.gradle\\daemon\\8.9\\com.cheese.wallpaperscheduler.app-debug-57:\\drawable_ic_notification.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\daemon\\8.9\\com.cheese.wallpaperscheduler.app-main-59:\\drawable\\ic_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mark\\.gradle\\daemon\\8.9\\com.cheese.wallpaperscheduler.app-debug-57:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Mark\\.gradle\\daemon\\8.9\\com.cheese.wallpaperscheduler.app-main-59:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

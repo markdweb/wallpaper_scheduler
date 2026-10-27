@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.WallpaperScheduler" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/cream_background</item>
+        <item name="android:windowBackground">@color/cream_background</item>
+    </style>
+</resources>
